@@ -1,11 +1,9 @@
 ---
 name: overlooked-beauty-discovery
-description: Help identify significance and beauty in overlooked, humble, or dismissed
-  subjects that deserve creative attention, following van Gogh's methodology of finding
-  the extraordinary in the ordinary.
+description: Help identify significance and beauty in overlooked, humble, or dismissed subjects that deserve creative attention, following van Gogh's methodology of finding the extraordinary in the ordinary.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - overlooked-beauty-discovery
